@@ -1,14 +1,14 @@
 import pandas as pd
 import os
 
-# def check():
-#   pwd = os.getenv("MIMA")
-#   user_input_pwd = input('使用本程式前，先核對身分：')
-#   if user_input_pwd != pwd:
-#     print('你不是本人...請回吧> <|||')
-#     exit()
+def check():
+  pwd = os.getenv("MIMA")
+  user_input_pwd = input('使用本程式前，先核對身分：')
+  if user_input_pwd != pwd:
+    print('你不是本人...請回吧> <|||')
+    exit()
 
-# check()
+check()
 
 # 載入記帳
 file_path = 'acc.csv'
