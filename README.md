@@ -2,7 +2,7 @@
 - Python3
 - Pandas2.1.1
 ```shell
-pip install pandas==2.1.0
+pip install pandas==2.1.1
 ```
 - A account `*.csv` file which is named `acc.csv`, format：
 ```
