@@ -13,6 +13,7 @@ pip install pandas==2.1.1
 義麵館, 20230925, O, 飲食, 315
 寶雅, 20230926, O, 衣物或衛生, 700
 ```
+(`Space` after `comma` is necessary.)
 >**PS：**
 >
 >'I' means 'input' and 'O' means 'output'.
